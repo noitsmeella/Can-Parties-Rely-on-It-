@@ -1,0 +1,23 @@
+# Raw data: not redistributed until UNCTAD terms are confirmed (DECISIONS.md D-01)
+data/raw/*
+!data/raw/.gitkeep
+
+# Secrets (LLM API keys, Phase 3)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Notebooks and editors
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Excel lock files
+~$*.xlsx
+Claude outputs/

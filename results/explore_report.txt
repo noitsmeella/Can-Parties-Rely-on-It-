@@ -1,0 +1,311 @@
+
+======================================================================
+FILE  data/raw/isds_navigator.xlsx
+======================================================================
+Sheets: ['Source - UNCTAD ISDS Navigator', 'Disclaimer and terms of use']
+
+======================================================================
+SHEET 'Source - UNCTAD ISDS Navigator'  1332 rows x 28 cols
+======================================================================
+  NO.                                                     int64     missing=  0.0%  unique=1332
+  YEAR OF INITIATION                                      int64     missing=  0.0%  unique=32
+  SHORT CASE NAME                                         object    missing=  0.0%  unique=1332
+  FULL CASE NAME                                          object    missing=  0.0%  unique=1332
+  APPLICABLE IIA                                          object    missing=  0.0%  unique=597
+  ARBITRAL RULES                                          object    missing=  0.0%  unique=10
+  ADMINISTERING INSTITUTION                               object    missing=  0.1%  unique=12
+  STATUS/OUTCOME OF ORIGINAL PROCEEDINGS                  object    missing=  0.0%  unique=7
+  RESPONDENT STATE                                        object    missing=  0.0%  unique=133
+  HOME STATE OF INVESTOR                                  object    missing=  0.0%  unique=159
+  ECONOMIC SECTOR                                         object    missing=  0.0%  unique=64
+  ECONOMIC SUBSECTOR                                      object    missing=  0.0%  unique=122
+  SUMMARY OF THE DISPUTE                                  object    missing= 16.0%  unique=1000
+   DETAILS OF INVESTMENT                                  object    missing= 13.4%  unique=1071
+  ARBITRATORS                                             object    missing=  0.1%  unique=1144
+  DECISIONS                                               object    missing=  9.2%  unique=934
+  INDIVIDUAL OPINIONS DETAILS                             object    missing= 55.0%  unique=212
+  AMOUNT CLAIMED (EXPRESSED IN MILLIONS)                  object    missing=  0.4%  unique=672
+  AMOUNT AWARDED (OR SETTLED FOR) (EXPRESSED IN MILLIONS) object    missing= 10.1%  unique=287
+  IIA BREACHES ALLEGED                                    object    missing=  0.0%  unique=302
+  IIA BREACHES FOUND                                      object    missing=  0.0%  unique=65
+  FOLLOW-ON PROCEEDING TYPE                               object    missing= 76.7%  unique=9
+  FOLLOW-ON PROCEEDING STATUS                             object    missing= 76.7%  unique=31
+  FOLLOW-ON DECISIONS                                     object    missing= 81.2%  unique=242
+  FOLLOW-ON INDIVIDUAL OPINIONS                           object    missing= 18.5%  unique=6
+  ICSID ANNULMENT COMMITTEE MEMBERS                       object    missing= 86.4%  unique=157
+  LINK TO ITALAW'S CASE PAGE                              object    missing=  0.0%  unique=866
+  LINKS TO BACKGROUND SOURCES                             object    missing=  0.9%  unique=1312
+
+  -- top values: ARBITRAL RULES
+       718  ICSID (International Centre for Settlement of Investment Disputes)
+       411  UNCITRAL
+        76  ICSID AF (ICSID Additional Facility)
+        56  SCC (Stockholm Chamber of Commerce)
+        28  Data not available
+        26  ICC (International Chamber of Commerce)
+        12  None (ad hoc)
+         3  MCCI (Moscow Chamber of Commerce and Industry)
+         1  LCIA (London Court of International Arbitration)
+         1  CRCICA (Cairo Regional Center for International Commercial Arbitration)
+
+  -- top values: ADMINISTERING INSTITUTION
+       834  ICSID (International Centre for Settlement of Investment Disputes)
+       247  PCA (Permanent Court of Arbitration)
+        81  Data not available
+        73  None (no administering institution)
+        56  SCC (Stockholm Chamber of Commerce)
+        27  ICC (International Chamber of Commerce)
+         5  LCIA (London Court of International Arbitration)
+         3  MCCI (Moscow Chamber of Commerce and Industry)
+         2  CRCICA (Cairo Regional Center for International Commercial Arbitration)
+         1  nan
+         1  HKIAC (Hong Kong International Arbitration Centre)
+         1  CESCON (Centro de Solución de Conflictos)
+         1  AIC (Arab Investment Court)
+
+  -- top values: STATUS/OUTCOME OF ORIGINAL PROCEEDINGS
+       361  Decided in favour of State
+       354  Pending
+       268  Decided in favour of investor
+       177  Settled
+       128  Discontinued for unknown reasons
+        24  Neither investor nor the State (liability found but no damages awarded)
+        20  Data not available
+
+  -- top values: FOLLOW-ON PROCEEDING TYPE
+      1021  nan
+       158  ICSID annulment proceedings
+       126  Judicial review by national courts
+        12  Judicial review by national courts;
+Judicial review by national courts
+         5  ICSID annulment proceedings;
+ICSID resubmission proceedings
+         4  Judicial review by national courts;
+Judicial review by national courts;
+Judicial review by national courts
+         2  ICSID annulment proceedings;
+ICSID resubmission proceedings;
+ICSID annulment proceedings
+         2  ICSID annulment proceedings;
+Judicial review by national courts
+         1  Judicial review by national courts;
+Judicial review by national courts;
+Judicial review by national courts;
+Judicial review by national courts
+         1  Judicial review by national courts;
+ICSID annulment proceedings;
+ICSID resubmission proceedings;
+ICSID annulment proceedings
+
+  -- top values: FOLLOW-ON PROCEEDING STATUS
+      1021  nan
+        82  Award/decision upheld ICSID annulment proceedings
+        81  Award/decision upheld Judicial review by national courts
+        33  Pending ICSID annulment proceedings
+        29  Discontinued ICSID annulment proceedings
+        23  Pending Judicial review by national courts
+        12  Award/decision set aside in its entirety Judicial review by national courts
+         6  Award/decision upheld Judicial review by national courts;
+Award/decision upheld Judicial review by national courts
+         5  Discontinued Judicial review by national courts
+         5  Award/decision partially annulled ICSID annulment proceedings
+         5  Unknown ICSID annulment proceedings
+         5  Award/decision partially set aside Judicial review by national courts
+         4  Award/decision annulled in its entirety ICSID annulment proceedings
+         2  Award/decision set aside in its entirety Judicial review by national courts;
+Award/decision set aside in its entirety Judicial review by national courts
+         2  Award/decision set aside in its entirety Judicial review by national courts;
+Pending Judicial review by national courts
+
+  -- top values: FOLLOW-ON INDIVIDUAL OPINIONS
+      1021  No follow-up proceedings initiated
+       247  nan
+        60  No decisions recorded
+         1  Dissenting Opinion of Gabriel Bottini
+         1  Individual Opinion by Fernando Piérola Castro
+         1  Dissenting Opinion by Magnus Ulriksson (English);
+Dissenting Opinion by Magnus Ulriksson (Swedish)
+         1  Concurring Opinion of Nicolas Angelet (English);
+Concurring Opinion of Nicolas Angelet (French)
+
+======================================================================
+SHEET 'Disclaimer and terms of use'  22 rows x 1 cols
+======================================================================
+  UNCTAD Investment Dispute Settlement Navigator          object    missing= 27.3%  unique=16
+
+  -- top values: UNCTAD Investment Dispute Settlement Navigator
+         6  nan
+         1  https://investmentpolicy.unctad.org/investment-dispute-settlement/
+         1  About
+         1  Sources of information and frequency of updating
+         1  •  an international arbitration between an investor and a State; 
+
+• fully or partially based on an IIA, such as a bilateral investment treaty or the investment chapter of a free trade agreement (not included are investor-State disputes that are solely based on contracts or on domestic investment legislation); 
+
+• submitted to arbitration through a notice of arbitration or a request for arbitration, and upon registration of such request if applicable (not included are cases where a disputing party has only notified the other party of the existence of a dispute or signalled its intention to submit a claim, but has not yet commenced the arbitration).
+         1  Cases included in the Navigator
+         1  The ISDS Navigator includes information about publicly known IIA-based international investor-State arbitration proceedings. As some proceedings (or certain aspects of proceedings) remain confidential, the information contained in the Navigator cannot be deemed exhaustive. 
+
+While every effort is made to keep the information up to date and complete, the material is provided without any guarantees or warranties as to its accuracy or completeness. UNCTAD assumes no responsibility for eventual errors or omissions in these data. 
+
+We welcome any additional information or clarifications on specific cases as well as suggestions to improve the Navigator. Please contact us using the online contact form.
+         1  Disclaimer
+         1  The UNCTAD Investment Dispute Settlement Navigator – the ISDS Navigator – is maintained by UNCTAD’s IIA Section. The ISDS Navigator contains information about known international arbitration cases initiated by investors against States pursuant to international investment agreements (IIAs). Such arbitrations are also referred to as treaty-based investor-State dispute settlement (ISDS) cases.
+         1  For questions and suggestions, please contact us via the online contact form: https://investmentpolicy.unctad.org/contact
+         1  The ISDS Navigator contains information about publicly known treaty-based ISDS cases.
+         1  For latest available information, please visit https://investmentpolicy.unctad.org/investment-dispute-settlement/
+         1  General terms of use: https://investmentpolicy.unctad.org/pages/1048/terms-and-conditions-of-use
+         1  About and Methodology: https://investmentpolicy.unctad.org/pages/1057/isds-navigator-about-and-methodology
+         1  Cite as: UNCTAD, Investment Dispute Settlement Navigator: full data release as of 31/12/2023 (excel format), available at https://investmentpolicy.unctad.org/investment-dispute-settlement
+
+======================================================================
+COLUMN GUESSES (check by eye; copy real names into COLS)
+======================================================================
+  outcome      -> ['STATUS/OUTCOME OF ORIGINAL PROCEEDINGS', 'FOLLOW-ON PROCEEDING STATUS']
+  year         -> ['YEAR OF INITIATION']
+  arbitrators  -> ['ARBITRATORS']
+  amount       -> ['AMOUNT CLAIMED (EXPRESSED IN MILLIONS)', 'AMOUNT AWARDED (OR SETTLED FOR) (EXPRESSED IN MILLIONS)']
+  forum        -> ['ARBITRAL RULES', 'ADMINISTERING INSTITUTION', 'ICSID ANNULMENT COMMITTEE MEMBERS']
+
+  Sample of 3 rows:
+                                                                                                                                                                                                                                                                                                                                                   0                                                                                                                                                                                                                                                                                         1                                                                                     2
+NO.                                                                                                                                                                                                                                                                                                                                                1                                                                                                                                                                                                                                                                                         2                                                                                     3
+YEAR OF INITIATION                                                                                                                                                                                                                                                                                                                              2023                                                                                                                                                                                                                                                                                      2023                                                                                  2023
+SHORT CASE NAME                                                                                                                                                                                                                                                                                                            Abertis v. Argentina (II)                                                                                                                                                                                                                                                                          Access v. Mexico                                                                        AET v. Germany
+FULL CASE NAME                                                                                                                                                                                                                                                  Abertis Infraestructuras, S.A. v. Argentine Republic (II) (ICSID Case No. ARB/23/39)                                                                                                                                                                                                             Access Business Group LLC v. United Mexican States (ICSID Case No. ARB/23/15)  Azienda Elettrica Ticinese v. Federal Republic of Germany (ICSID Case No. ARB/23/47)
+APPLICABLE IIA                                                                                                                                                                                                                                                                                                          Argentina - Spain BIT (1991)                                                                                                                                                                                                                                                               NAFTA (1992);\nUSMCA (2018)                                                      The Energy Charter Treaty (1994)
+ARBITRAL RULES                                                                                                                                                                                                                                                                    ICSID (International Centre for Settlement of Investment Disputes)                                                                                                                                                                                                                        ICSID (International Centre for Settlement of Investment Disputes)                    ICSID (International Centre for Settlement of Investment Disputes)
+ADMINISTERING INSTITUTION                                                                                                                                                                                                                                                                                                                        NaN                                                                                                                                                                                                                        ICSID (International Centre for Settlement of Investment Disputes)                    ICSID (International Centre for Settlement of Investment Disputes)
+STATUS/OUTCOME OF ORIGINAL PROCEEDINGS                                                                                                                                                                                                                                                                                                       Pending                                                                                                                                                                                                                                                                                   Pending                                                                               Pending
+RESPONDENT STATE                                                                                                                                                                                                                                                                                                                           Argentina                                                                                                                                                                                                                                                                                    Mexico                                                                               Germany
+HOME STATE OF INVESTOR                                                                                                                                                                                                                                                                                                                         Spain                                                                                                                                                                                                                                                                  United States of America                                                                           Switzerland
+ECONOMIC SECTOR                                                                                                                                                                                                                                                              Tertiary - F - Construction;\nTertiary - H - Transportation and storage                                                                                                                                                                                                                                           Primary - A - Agriculture, forestry and fishing                    Tertiary - D - Electricity, gas, steam and air conditioning supply
+ECONOMIC SUBSECTOR                                                                                                                                                                                                                                               42 - Civil engineering;\n52 - Warehousing and support activities for transportation                                                                                                                                                                                                                    1 - Crop and animal production, hunting and related service activities                              35 - Electricity, gas, steam and air conditioning supply
+SUMMARY OF THE DISPUTE                                                                                                                                                                                                                                                                                                                           NaN                                                                                        Claims arising out of the government’s decision to seize 280 hectares of agricultural land owned by the claimant and to transfer the land rights to El Ejido San Isidro, a group of local farmers.                                                                                   NaN
+DETAILS OF INVESTMENT                                                                                                                                                                                                                                                                                                                            NaN                                                                                                                                                            Ownership of agricultural land operated by local subsidiary, Nutrilite S.R.L. de C.V., in San Isidoro in the state of Jalisco.                                                                                   NaN
+ARBITRATORS                                                                                                                                                                                                                                                       Villanúa Gómez, D. - President; Eljuri, E. - Claimant; Malintoppi, L. - Respondent                                                                                                                                                                                                      Kaufmann-Kohler, G. - President; Ferrari, F. - Claimant; Malintoppi, L. - Respondent                                                                    Data not available
+DECISIONS                                                                                                                                                                                                                                                                                                                         Data not available                                                                                                                                                                                                                                                                        Data not available                                                                    Data not available
+INDIVIDUAL OPINIONS DETAILS                                                                                                                                                                                                                                                                                                       Data not available                                                                                                                                                                                                                                                                        Data not available                                                                    Data not available
+AMOUNT CLAIMED (EXPRESSED IN MILLIONS)                                                                                                                                                                                                                                                                                            Data not available                                                                                                                                                                                                                                                                               3000.00 USD                                                                    Data not available
+AMOUNT AWARDED (OR SETTLED FOR) (EXPRESSED IN MILLIONS)                                                                                                                                                                                                                                                                           Data not available                                                                                                                                                                                                                                                                        Data not available                                                                    Data not available
+IIA BREACHES ALLEGED                                                                                                                                                                                                                                                                                                              Data not available                                                                                                                                                Fair and equitable treatment/Minimum standard of treatment, including denial of justice claims;\nNational treatment;\nDirect expropriation                                                                    Data not available
+IIA BREACHES FOUND                                                                                                                                                                                                                                                                                                                           Pending                                                                                                                                                                                                                                                                                   Pending                                                                               Pending
+FOLLOW-ON PROCEEDING TYPE                                                                                                                                                                                                                                                                                                                        NaN                                                                                                                                                                                                                                                                                       NaN                                                                                   NaN
+FOLLOW-ON PROCEEDING STATUS                                                                                                                                                                                                                                                                                                                      NaN                                                                                                                                                                                                                                                                                       NaN                                                                                   NaN
+FOLLOW-ON DECISIONS                                                                                                                                                                                                                                                                                                                              NaN                                                                                                                                                                                                                                                                                       NaN                                                                                   NaN
+FOLLOW-ON INDIVIDUAL OPINIONS                                                                                                                                                                                                                                                                                     No follow-up proceedings initiated                                                                                                                                                                                                                                                        No follow-up proceedings initiated                                                    No follow-up proceedings initiated
+ICSID ANNULMENT COMMITTEE MEMBERS                                                                                                                                                                                                                                                                                                                NaN                                                                                                                                                                                                                                                                                       NaN                                                                                   NaN
+LINK TO ITALAW'S CASE PAGE                                                                                                                                                                                                                                                                                                             Not available                                                                                                                                                                                                                                                        https://www.italaw.com/cases/10529                                                                         Not available
+LINKS TO BACKGROUND SOURCES                              https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB/23/39;\nhttps://www.iareporter.com/articles/spanish-highway-concessionaire-lodges-second-treaty-arbitration-against-argentina/;\nhttps://globalarbitrationreview.com/article/argentine-highway-dispute-returns-icsid  https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB/23/15;\nhttps://www.iareporter.com/articles/us-investor-in-agriculture-venture-files-nafta-legacy-claim-against-mexico/ ;\nhttps://globalarbitrationreview.com/article/us-investor-hits-mexico-land-seizure-claim          https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB/23/47
+Columns used: {'outcome': 'STATUS/OUTCOME OF ORIGINAL PROCEEDINGS', 'outcome_detail': 'IIA BREACHES FOUND', 'year': 'YEAR OF INITIATION', 'arbitrators': 'ARBITRATORS', 'amount_claimed': 'AMOUNT CLAIMED (EXPRESSED IN MILLIONS)', 'amount_awarded': 'AMOUNT AWARDED (OR SETTLED FOR) (EXPRESSED IN MILLIONS)', 'forum': 'ARBITRAL RULES'}
+
+======================================================================
+1. OUTCOME VALUES
+======================================================================
+STATUS/OUTCOME OF ORIGINAL PROCEEDINGS
+Decided in favour of State                                                 361
+Pending                                                                    354
+Decided in favour of investor                                              268
+Settled                                                                    177
+Discontinued for unknown reasons                                           128
+Neither investor nor the State (liability found but no damages awarded)     24
+Data not available                                                          20
+
+Cases ending in an award (decided + neither): 653
+Gate (>= 300): PASS
+
+======================================================================
+2. STATE WINS — jurisdiction vs merits
+======================================================================
+IIA BREACHES FOUND
+None - all claims dismissed at the merits stage    188
+None - jurisdiction declined                       164
+Data not available                                   9
+
+label_a (all award cases):           n=653  investor share=41.0%
+label_b (excl. jurisdiction declined): n=489  investor share=54.8%
+
+======================================================================
+3. ARBITRATORS
+======================================================================
+missing: all 7.4% / award cases 0.9%
+5 samples:
+  | 'Spigelman, J. - Claimant; Lowe, V. - President; Tomuschat, C. - Respondent'
+  | 'McLachlan, C. A. - President; Lalonde, M. - Claimant; Thomas, J. C. - Respondent'
+  | 'Williams, D. A. R. - President; Brower, C. N. - Claimant; Perezcano Diaz, H. - Respondent'
+  | 'Kaufmann-Kohler, G. - President; Böckstiegel, K.-H. - Claimant; Berman, F. - Respondent'
+  | 'Schwartz, E. - President; Hobér, K. - Claimant; Landau, T. - Respondent'
+
+======================================================================
+4. YEARS
+======================================================================
+count    1332.000000
+mean     2013.313063
+std         6.752491
+min      1987.000000
+25%      2008.750000
+50%      2015.000000
+75%      2019.000000
+max      2023.000000
+
+Cases per 5-year bin:
+YEAR OF INITIATION
+[1985, 1990)      1
+[1990, 1995)      3
+[1995, 2000)     40
+[2000, 2005)    138
+[2005, 2010)    192
+[2010, 2015)    277
+[2015, 2020)    406
+[2020, 2025)    275
+
+Award cases per 5-year bin (watch the last bins: right truncation):
+YEAR OF INITIATION
+[1985, 1990)      1
+[1990, 1995)      2
+[1995, 2000)     27
+[2000, 2005)     80
+[2005, 2010)    131
+[2010, 2015)    193
+[2015, 2020)    204
+[2020, 2025)     15
+
+======================================================================
+5. CUTOFF CANDIDATES (award cases only, split on year of initiation)
+======================================================================
+ cutoff  A_train  A_test  A_tr_pos  A_te_pos  B_train  B_test
+   2009      216     437     45.8%     38.7%      170     319
+   2010      241     412     45.6%     38.3%      187     302
+   2011      268     385     45.1%     38.2%      206     283
+   2012      306     347     45.4%     37.2%      233     256
+   2013      346     307     43.4%     38.4%      261     228
+   2014      395     258     43.5%     37.2%      301     188
+Requirement: train >= 200, test >= 80
+
+======================================================================
+6. AMOUNTS
+======================================================================
+amount_claimed  missing: all 32.3% / award cases 11.8%
+amount_awarded  missing: all 74.9% / award cases 57.9%
+(amount_awarded is outcome information — never use as a feature)
+
+======================================================================
+7. FORUM
+======================================================================
+ARBITRAL RULES
+ICSID (International Centre for Settlement of Investment Disputes)         718
+UNCITRAL                                                                   411
+ICSID AF (ICSID Additional Facility)                                        76
+SCC (Stockholm Chamber of Commerce)                                         56
+Data not available                                                          28
+ICC (International Chamber of Commerce)                                     26
+None (ad hoc)                                                               12
+MCCI (Moscow Chamber of Commerce and Industry)                               3
+LCIA (London Court of International Arbitration)                             1
+CRCICA (Cairo Regional Center for International Commercial Arbitration)      1
+
+======================================================================
+MANUAL CHECK
+======================================================================
+Investor wins by script: 268  -> compare with an Excel filter count
+State wins by script:    361
