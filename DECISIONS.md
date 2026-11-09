@@ -116,7 +116,23 @@ Split on **year of initiation** (no year of conclusion in the data).
 - **Forum**: over a third of cases are not ICSID (UNCITRAL 411, SCC 56, ICC 26 …) → LLM prompts use the actual rules, not "an ICSID claim".
 
 ---
+## D-05 · 2026-11-10 · Phase 1 features (reduced scope)
 
+**Choice** Features: respondent (rare → "other", < 5 train cases), respondent region (continent, via country_converter), forum (ICSID / ICSID AF / UNCITRAL / SCC / other), sector (level 1), n_claims, top-6 alleged-claim flags (chosen on the train set), log amount claimed (USD) + missing flag.
+
+**Result** train 395 (investor 43.5%, label_b 301) · test 225 (investor 40.9%, label_b 169). All respondents matched to a region.
+
+**Deferred** Income group, OECD membership, development gap, arbitrator repeat appointment — time constraint; may be added if Phase 2 finishes early.
+
+**Never used as features** Amount awarded, IIA breaches found, decisions, follow-on fields (outcome information).
+
+**Observed shift** Test set has more European respondents (45% vs 32% in train; ECT renewable-energy cases 2014–18) and more missing alleged-claims data (17% vs 7%). Kept as is; checked in error analysis.
+
+**Not committed** data/settled.csv (contains full raw columns; redistribution).
+
+**Manual check** 5 random test rows (random_state=1) checked against the Excel file on 2026-11-10: year, label, n_claims, amount, forum all match ✔
+
+---
 <!-- Template for new entries
 
 ## D-XX · YYYY-MM-DD · Title

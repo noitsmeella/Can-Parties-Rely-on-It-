@@ -21,3 +21,4 @@ Thumbs.db
 # Excel lock files
 ~$*.xlsx
 Claude outputs/
+data/settled.csv

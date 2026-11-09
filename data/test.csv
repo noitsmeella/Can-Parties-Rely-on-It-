@@ -1,0 +1,259 @@
+NO.,SHORT CASE NAME,year,label_a,in_label_b,respondent,resp_region,HOME STATE OF INVESTOR,forum,sector,n_claims,log_amount,amount_missing,claim_0,claim_1,claim_2,claim_3,claim_4,claim_5
+345,Alcor v. Czechia,2018,0,False,Czechia,Europe,United Arab Emirates,UNCITRAL,Tertiary,4.0,3.1612467120315646,0,1,0,1,1,0,0
+347,Almasryia v. Kuwait,2018,0,False,Kuwait,Asia,Egypt,ICSID,Tertiary,1.0,5.771441123130016,0,0,0,0,0,0,0
+348,Al-Tuwairqi v. Pakistan,2018,0,True,Pakistan,Asia,Saudi Arabia,UNCITRAL,Secondary,,6.2166061010848646,0,0,0,0,0,0,0
+349,Alverley and Germen v. Romania,2018,0,False,Romania,Europe,Cyprus,ICSID,Tertiary,1.0,5.303304908059076,0,0,1,0,0,0,0
+353,Bay View and Spalena v. Rwanda,2018,0,True,Rwanda,Africa,United States of America,ICSID,Primary,4.0,4.564348191467836,0,0,1,1,0,0,1
+354,BBVA v. Bolivia,2018,1,True,other,America,Spain,ICSID_AF,Tertiary,2.0,4.783316371371566,0,1,0,0,1,0,0
+356,Borkowski and Rasia FZE v. Armenia,2018,0,True,other,Asia,"United States of America;
+United Arab Emirates",ICSID,Tertiary,4.0,5.017279836814924,0,1,1,0,1,1,0
+357,Carrizosa Gelzis v. Colombia (I),2018,0,False,Colombia,America,United States of America,UNCITRAL,Tertiary,5.0,5.780743515792329,0,1,0,0,1,0,1
+358,Carrizosa v. Colombia (II),2018,0,False,Colombia,America,United States of America,ICSID,Tertiary,1.0,3.713572066704308,0,0,0,0,0,0,0
+359,Cascade Investments v. Turkey,2018,0,False,Türkiye,Asia,Belgium,ICSID,Tertiary,,4.96563792816552,0,0,0,0,0,0,0
+364,Doutremepuich v. Mauritius,2018,0,False,Mauritius,Africa,France,UNCITRAL,Tertiary,1.0,2.72785282839839,0,1,0,0,0,0,0
+365,DTEK v. Russia,2018,1,True,Russian Federation,Europe,Ukraine,UNCITRAL,Tertiary,7.0,6.0454791354142206,0,1,0,1,1,0,1
+368,Elliott v. Korea,2018,1,True,other,Asia,United States of America,UNCITRAL,Data not available,2.0,6.366985778843074,0,1,0,0,0,0,1
+373,Festorino and others v. Poland,2018,0,True,Poland,Europe,"Austria;
+Cyprus;
+Czechia;
+Switzerland",SCC,Primary,5.0,,1,1,0,0,1,1,1
+377,Gargour Family v. Libya (I),2018,0,True,other,Africa,France,UNCITRAL,Tertiary,,6.053029902766137,0,0,0,0,0,0,0
+387,Ipek v. Türkiye,2018,0,False,Türkiye,Asia,United Kingdom,ICSID,Primary,,,1,0,0,0,0,0,0
+390,Khadamat v. Saudi Arabia,2018,0,False,Saudi Arabia,Asia,India,UNCITRAL,Data not available,,,1,0,0,0,0,0,0
+391,Kimberly-Clark v. Venezuela,2018,0,False,"Venezuela, Bolivarian Republic of",America,"Belgium;
+Netherlands;
+Spain",ICSID_AF,Secondary,2.0,,1,1,0,0,0,0,0
+393,Korsgaard v. Croatia,2018,0,False,Croatia,Europe,Canada,UNCITRAL,Tertiary,,5.4174328474381985,0,0,0,0,0,0,0
+394,Lazareva v. Kuwait,2018,0,False,Kuwait,Asia,Russian Federation,UNCITRAL,Tertiary,6.0,4.61512051684126,0,1,1,1,1,0,0
+395,Lee-Chin v. Dominican Republic,2018,1,True,Dominican Republic,America,Jamaica,UNCITRAL,Tertiary,6.0,6.525322869984546,0,1,1,1,1,1,0
+398,Manolium-Processing v. Belarus,2018,1,True,Belarus,Europe,Russian Federation,UNCITRAL,Tertiary,2.0,5.177843213080163,0,1,1,0,0,0,0
+400,MTS v. Turkmenistan (II),2018,0,True,Turkmenistan,Asia,Russian Federation,ICSID_AF,Tertiary,6.0,6.621405651764134,0,1,1,1,0,0,1
+402,Navodaya v. Gabon,2018,0,True,Gabon,Africa,United Arab Emirates,UNCITRAL,Primary,5.0,5.262690188904886,0,1,1,1,1,1,0
+404,Olympic Entertainment v. Ukraine,2018,1,True,Ukraine,Europe,Estonia,UNCITRAL,Tertiary,3.0,2.9496883350525844,0,1,1,1,0,0,0
+405,Orlandini-Ágreda and Compañía Minera Orlandini v. Bolivia,2018,0,True,other,America,United States of America,UNCITRAL,Primary,4.0,6.106800145787886,0,1,1,1,1,0,0
+406,PACC v. Mexico,2018,1,True,Mexico,America,Singapore,UNCITRAL,Tertiary,3.0,5.429784129290343,0,1,1,0,0,0,0
+407,Rand Investments and others v. Serbia,2018,1,True,other,Europe,"Canada;
+Cyprus",ICSID,Primary,2.0,4.571613402459248,0,1,0,0,0,0,0
+408,Recalvi v. Dominican Republic,2018,0,False,Dominican Republic,America,Spain,UNCITRAL,Tertiary,,,1,0,0,0,0,0,0
+412,RusHydro v. Kyrgyzstan,2018,1,True,Kyrgyzstan,Asia,Russian Federation,UNCITRAL,Tertiary,,3.6375861597263857,0,0,0,0,0,0,0
+417,Seo v. Korea,2018,0,False,other,Asia,United States of America,UNCITRAL,Tertiary,2.0,1.3862943611198906,0,1,0,0,0,0,0
+420,Sunlodges v. Tanzania,2018,1,True,other,Africa,Italy,UNCITRAL,Primary,7.0,3.5751506887855933,0,1,1,1,1,0,1
+423,Trapote v. Venezuela,2018,0,False,"Venezuela, Bolivarian Republic of",America,Spain,UNCITRAL,Tertiary,2.0,6.68586094706836,0,1,1,0,0,0,0
+425,Unionmatex v. Turkmenistan,2018,1,True,Turkmenistan,Asia,Germany,ICSID,Tertiary,4.0,3.9415818076696905,0,1,1,0,1,1,0
+427,Valle Ruiz and others v. Spain,2018,0,True,Spain,Europe,Mexico,UNCITRAL,Tertiary,6.0,6.536111719349483,0,1,1,1,0,0,1
+431,Westwater Resources v. Turkey,2018,1,True,Türkiye,Asia,United States of America,ICSID,Primary,2.0,3.624340932976365,0,1,1,0,0,0,0
+433,Zhongshan Fucheng v. Nigeria,2018,1,True,Nigeria,Africa,China,other,Tertiary,3.0,6.983789965258135,0,1,1,0,1,0,0
+435,Addiko Bank v. Montenegro,2017,0,True,other,Europe,Austria,ICSID,Tertiary,2.0,,1,1,0,1,0,0,0
+436,Agarwal and Mehta v. Uruguay,2017,0,False,other,America,United Kingdom,UNCITRAL,Primary,3.0,8.17103418920548,0,1,1,0,0,0,0
+437,Aggarwal and others v. Bosnia and Herzegovina,2017,0,True,Bosnia and Herzegovina,Europe,"India;
+United States of America",UNCITRAL,Tertiary,4.0,3.713572066704308,0,1,1,0,0,0,1
+438,Agility v. Iraq,2017,0,True,Iraq,Asia,Kuwait,ICSID,Tertiary,6.0,6.4817302569086115,0,1,0,1,1,0,1
+440,Air Canada v. Venezuela,2017,1,True,"Venezuela, Bolivarian Republic of",America,Canada,ICSID_AF,Tertiary,4.0,5.366443195595637,0,1,1,0,0,0,0
+442,Al Ramahi v. Hungary,2017,0,True,Hungary,Europe,Jordan,ICSID,Tertiary,,,1,0,0,0,0,0,0
+445,Arin Capital and Khudyan v. Armenia,2017,0,False,other,Asia,United States of America,ICSID,Tertiary,,2.772588722239781,0,0,0,0,0,0,0
+446,Bank Melli and Bank Saderat v. Bahrain,2017,1,True,Bahrain,Asia,"Iran, Islamic Republic of",UNCITRAL,Tertiary,5.0,6.244555174790144,0,1,1,1,0,0,0
+448,Big Sky Energy v. Kazakhstan,2017,0,True,Kazakhstan,Asia,United States of America,ICSID,Primary,4.0,6.13361493921266,0,1,1,0,0,0,0
+449,Bin Sulaiman v. Oman,2017,0,True,other,Asia,Saudi Arabia,UNCITRAL,Data not available,,,1,0,0,0,0,0,0
+456,Cementos v. Cuba,2017,0,False,Cuba,America,Spain,other,Secondary,,,1,0,0,0,0,0,0
+457,CMC v. Mozambique,2017,0,True,Mozambique,Africa,Italy,ICSID,Tertiary,4.0,2.6461747973841225,0,1,0,0,1,1,0
+459,Consutel v. Algeria,2017,0,True,other,Africa,Italy,UNCITRAL,Tertiary,2.0,,1,1,1,0,0,0,0
+462,De Sutter and others v. Madagascar (II),2017,1,True,other,Africa,"Luxembourg;
+Belgium",ICSID,Secondary,4.0,3.3463891451671604,0,1,1,1,1,0,0
+463,Diag and Šťáva v. Czechia,2017,1,True,Czechia,Europe,Switzerland,other,Secondary,1.0,7.700974013266298,0,1,0,0,0,0,0
+465,EcoDevelopment and EcoEnergy v. Tanzania,2017,1,True,other,Africa,Sweden,ICSID,Primary,2.0,,1,1,1,0,0,0,0
+466,Elitech and Razvoj v. Croatia,2017,0,True,Croatia,Europe,Netherlands,ICSID,Tertiary,2.0,5.785055194784937,0,1,1,0,0,0,0
+468,Eutelsat v. Mexico,2017,0,True,Mexico,America,France,ICSID_AF,Tertiary,4.0,4.795790545596741,0,1,1,1,0,0,0
+469,FREIF Eurowind v. Spain,2017,0,True,Spain,Europe,United Kingdom,SCC,Tertiary,3.0,4.782479200958502,0,1,0,0,1,1,0
+471,Fynerdale v. Czech Republic,2017,0,False,Czechia,Europe,Netherlands,UNCITRAL,Tertiary,3.0,4.741447804280639,0,1,1,1,0,0,0
+473,Gardabani and Silk Road v. Georgia,2017,1,True,other,Asia,Netherlands,ICSID,Tertiary,3.0,5.334167019441734,0,1,0,0,1,1,0
+476,Iberdrola Energía v. Guatemala (II),2017,0,False,other,America,Spain,UNCITRAL,Tertiary,3.0,,1,1,0,1,1,0,0
+477,ICL Europe v. Ethiopia,2017,0,True,other,Africa,Netherlands,UNCITRAL,Primary,2.0,5.303304908059076,0,1,1,0,0,0,0
+478,Itisaluna Iraq and others v. Iraq,2017,0,False,Iraq,Asia,"Jordan;
+United Arab Emirates",ICSID,Tertiary,3.0,,1,0,1,1,0,0,0
+482,Lidercón v. Peru,2017,0,True,Peru,America,Spain,ICSID,Tertiary,3.0,4.820281565605037,0,1,0,0,1,1,0
+483,Lotus v. Turkmenistan,2017,0,False,Turkmenistan,Asia,Türkiye,ICSID,Secondary,5.0,4.283586561860629,0,1,1,0,0,1,1
+484,LTME and Madamobil v. Madagascar,2017,0,False,other,Africa,Mauritius,ICSID,Tertiary,,,1,0,0,0,0,0,0
+485,Magyar Farming and others v. Hungary,2017,1,True,Hungary,Europe,United Kingdom,ICSID,Primary,1.0,3.0301337002713233,0,0,0,0,0,0,0
+486,MAKAE v. Saudi Arabia,2017,0,False,Saudi Arabia,Asia,France,ICSID,Tertiary,5.0,6.348439446055712,0,1,1,0,1,0,1
+489,MetroJet v. Egypt,2017,0,False,Egypt,Africa,Russian Federation,UNCITRAL,Tertiary,,4.672828834461906,0,0,0,0,0,0,0
+490,Naturgy (formerly Gas Natural) v. Colombia,2017,0,True,Colombia,America,Spain,UNCITRAL,Tertiary,4.0,7.17869802742962,0,1,0,1,0,0,0
+492,OHL and others v. Kuwait,2017,0,True,Kuwait,Asia,"Spain;
+Italy",ICSID,Tertiary,,5.674696893761104,0,0,0,0,0,0,0
+493,Ojeocan v. Poland,2017,0,False,Poland,Europe,Cyprus,SCC,Tertiary,,2.451005098112319,0,0,0,0,0,0,0
+494,Ortiz v. Algeria,2017,0,True,other,Africa,Spain,ICSID,Tertiary,3.0,3.856510295497887,0,1,0,0,1,1,0
+496,Pawlowski and Projekt Sever v. Czech Republic,2017,0,True,Czechia,Europe,Switzerland,ICSID,Tertiary,4.0,5.473110656921199,0,1,1,0,1,0,0
+497,Pey Casado and others v. Chile,2017,0,False,other,America,Spain,UNCITRAL,Tertiary,2.0,5.826884671790184,0,1,1,0,0,0,0
+500,Prens Turizm v. Egypt,2017,0,False,Egypt,Africa,Türkiye,UNCITRAL,Tertiary,,4.553876891600541,0,0,0,0,0,0,0
+503,Ríos v. Chile,2017,0,True,other,America,Colombia,ICSID,Tertiary,4.0,5.8522024797744745,0,1,1,1,0,0,1
+504,Rockhopper v. Italy,2017,1,True,Italy,Europe,United Kingdom,ICSID,Primary,3.0,5.642970335259443,0,1,1,0,1,0,0
+505,Samsung v. Saudi Arabia,2017,0,True,Saudi Arabia,Asia,"Korea, Republic of",ICSID,Tertiary,,,1,0,0,0,0,0,0
+507,Sastre and others v. Mexico,2017,0,False,Mexico,America,"Argentina;
+France;
+Portugal;
+Canada",UNCITRAL,Tertiary,5.0,4.394449154672439,0,1,1,0,1,0,0
+508,Slot v. Poland,2017,1,True,Poland,Europe,Czechia,UNCITRAL,Tertiary,1.0,,1,1,0,0,0,0,0
+511,Tennant Energy v. Canada,2017,0,False,Canada,America,United States of America,UNCITRAL,Tertiary,1.0,4.467056883858457,0,1,0,0,0,0,0
+512,The Lopez-Goyne Family Trust and others v. Nicaragua,2017,0,True,Nicaragua,America,United States of America,ICSID,Primary,3.0,5.293304824724492,0,1,1,0,0,0,0
+517,Vento v. Mexico,2017,0,True,Mexico,America,United States of America,ICSID_AF,Secondary,4.0,7.918992488165245,0,1,0,0,1,0,1
+519,A.M.F. Aircraftleasing v. Czech Republic,2016,0,True,Czechia,Europe,Germany,UNCITRAL,Tertiary,6.0,4.837867950107113,0,1,1,1,1,0,1
+520,Agroinsumos Ibero-Americanos and others v. Venezuela,2016,1,True,"Venezuela, Bolivarian Republic of",America,Spain,ICSID,Primary,1.0,,1,0,0,0,0,0,0
+522,Albacora v. Ecuador,2016,0,True,Ecuador,America,Spain,UNCITRAL,Primary,3.0,4.04305126783455,0,1,1,0,1,0,0
+523,Alhambra v. Kazakhstan,2016,1,True,Kazakhstan,Asia,"Netherlands;
+Canada",ICSID,Primary,,4.61512051684126,0,0,0,0,0,0,0
+524,América Móvil v. Colombia,2016,0,True,Colombia,America,Mexico,ICSID_AF,Tertiary,2.0,6.928537818164665,0,1,1,0,0,0,0
+525,Amlyn v. Croatia,2016,0,True,Croatia,Europe,Netherlands,ICSID,Tertiary,2.0,4.428433007488037,0,1,1,0,0,0,0
+528,Biram and others v. Spain,2016,1,True,Spain,Europe,"Germany;
+United Kingdom",ICSID,Tertiary,,4.395682961121367,0,0,0,0,0,0,0
+530,Bridgestone v. Panama,2016,0,True,other,America,United States of America,ICSID,Secondary,3.0,2.833213344056216,0,1,1,0,0,0,1
+532,Cengiz v. Libya,2016,1,True,other,Africa,Türkiye,other,Tertiary,3.0,5.715711045521475,0,1,0,1,0,0,0
+534,Champion Holding Company and others v. Egypt,2016,0,False,Egypt,Africa,United States of America,ICSID,Primary,,6.2166061010848646,0,0,0,0,0,0,0
+536,Corcoesto v. Spain,2016,0,False,Spain,Europe,Panama,UNCITRAL,Primary,,3.6913763343125234,0,0,0,0,0,0,0
+537,Cordoba Beheer and others v. Spain,2016,1,True,Spain,Europe,Netherlands,ICSID,Tertiary,3.0,2.128231705849268,0,1,0,0,1,1,0
+541,Deripaska v. Montenegro,2016,0,False,other,Europe,Russian Federation,UNCITRAL,Primary,2.0,6.496171489865795,0,1,1,0,0,0,0
+542,Dominion Minerals v. Panama,2016,1,True,other,America,United States of America,ICSID,Primary,4.0,6.529418838262226,0,1,1,0,1,1,0
+543,EBO Invest and others v. Latvia,2016,0,True,other,Europe,Norway,ICSID,Tertiary,3.0,3.8480176754522337,0,1,1,0,0,1,0
+545,EDF v. Spain,2016,1,True,Spain,Europe,France,UNCITRAL,Tertiary,,4.131961425793407,0,0,0,0,0,0,0
+548,ESPF and others v. Italy,2016,1,True,Italy,Europe,"Austria;
+Germany",ICSID,Tertiary,3.0,3.5524868292083815,0,1,0,0,1,1,0
+549,Etrak v. Libya,2016,1,True,other,Africa,Türkiye,other,Tertiary,3.0,3.1822118404966093,0,1,1,0,0,1,0
+550,Eurus Energy v. Spain,2016,1,True,Spain,Europe,Japan,ICSID,Tertiary,3.0,5.333684510385328,0,1,1,1,0,0,0
+551,Evrobalt and Kompozit v. Moldova,2016,0,True,"Moldova, Republic of",Europe,Russian Federation,SCC,Tertiary,2.0,,1,1,0,0,0,0,0
+552,Eyre and Montrose Developments v. Sri Lanka,2016,0,False,other,Asia,United Kingdom,ICSID,Tertiary,,3.077312260546414,0,0,0,0,0,0,0
+554,Glencore Finance v. Bolivia,2016,1,True,other,America,United Kingdom,UNCITRAL,Primary,5.0,6.088137434368242,0,1,0,1,1,1,0
+555,Glencore International and C.I. Prodeco v. Colombia (I),2016,1,True,Colombia,America,Switzerland,ICSID,Primary,2.0,6.388225214586,0,1,0,0,1,0,0
+556,Global Telecom Holding v. Canada,2016,0,True,Canada,America,Egypt,ICSID,Tertiary,4.0,6.922643891475888,0,1,0,1,0,0,1
+557,Gold Pool v. Kazakhstan,2016,0,False,Kazakhstan,Asia,Canada,UNCITRAL,Primary,,6.822197390620491,0,0,0,0,0,0,0
+558,Goljevšček and others v. Bosnia and Herzegovina,2016,1,True,Bosnia and Herzegovina,Europe,Slovenia,ICSID,Tertiary,2.0,4.023564380161053,0,1,1,0,0,0,0
+560,Gosling and others v. Mauritius,2016,0,True,Mauritius,Africa,United Kingdom,ICSID,Tertiary,4.0,3.2846635654062037,0,1,1,0,0,0,1
+561,Gramercy v. Peru,2016,1,True,Peru,America,United States of America,UNCITRAL,Tertiary,5.0,7.496097345175956,0,1,1,0,0,0,1
+562,Green Power and SCE v. Spain,2016,0,False,Spain,Europe,Denmark,SCC,Tertiary,,4.364371699435161,0,0,0,0,0,0,0
+563,Grot and others v. Moldova,2016,1,True,"Moldova, Republic of",Europe,"United States of America;
+Poland",ICSID,Primary,3.0,2.772588722239781,0,1,1,0,1,0,0
+564,Güriş and Yamantürk v. Syria,2016,1,True,other,Asia,Türkiye,other,Secondary,5.0,4.493120682179469,0,1,1,1,0,0,0
+565,Güriş v. Libya,2016,0,True,other,Africa,Türkiye,other,Tertiary,5.0,4.903050083416319,0,1,1,1,0,1,0
+566,Heemsen v. Venezuela,2016,0,False,"Venezuela, Bolivarian Republic of",America,Germany,UNCITRAL,Tertiary,,5.915393110156686,0,0,0,0,0,0,0
+567,Infracapital v. Spain,2016,1,True,Spain,Europe,"Luxembourg;
+Netherlands",ICSID,Tertiary,5.0,4.037774210733707,0,1,0,1,1,1,0
+568,Italba v. Uruguay,2016,0,False,other,America,United States of America,ICSID,Tertiary,2.0,4.128745988939433,0,1,0,1,0,0,0
+570,JSC Tashkent and others v. Kyrgyzstan,2016,1,True,Kyrgyzstan,Asia,Uzbekistan,ICSID_AF,Tertiary,6.0,3.885679030088544,0,1,1,1,0,0,1
+571,Kunsttrans v. Serbia,2016,1,True,other,Europe,Austria,ICSID,Tertiary,1.0,2.424802725718295,0,1,0,0,0,0,0
+574,Muszynianka v. Slovakia,2016,0,True,Slovakia,Europe,Poland,UNCITRAL,Secondary,3.0,5.023222409601727,0,1,1,0,1,0,0
+575,Naftogaz and others v. Russia,2016,1,True,Russian Federation,Europe,Ukraine,UNCITRAL,Primary,3.0,8.517393171418904,0,0,0,1,0,0,0
+576,Nelson v. Mexico,2016,0,True,Mexico,America,United States of America,UNCITRAL,Tertiary,2.0,6.2166061010848646,0,1,1,0,0,0,0
+577,Nile Douma v. Egypt,2016,0,True,Egypt,Africa,Bahrain,UNCITRAL,Tertiary,,3.427514689979529,0,0,0,0,0,0,0
+581,Omega Engineering and Rivera v. Panama,2016,0,True,other,America,United States of America,ICSID,Tertiary,2.0,4.61512051684126,0,1,1,0,0,0,0
+582,Oschadbank v. Russia,2016,1,True,Russian Federation,Europe,Ukraine,UNCITRAL,Tertiary,1.0,6.523562306149512,0,0,0,0,0,0,0
+583,Öztaş Construction v. Libya,2016,0,True,other,Africa,Türkiye,other,Tertiary,2.0,1.3609765531356006,0,1,0,1,0,0,0
+585,RAKIA v. India,2016,0,False,other,Asia,United Arab Emirates,UNCITRAL,Secondary,,3.822317092343653,0,0,0,0,0,0,0
+586,Safa v. Greece,2016,0,True,other,Europe,Lebanon,ICSID,Secondary,1.0,,1,1,0,0,0,0,0
+591,SunReserve v. Italy,2016,0,True,Italy,Europe,Luxembourg,SCC,Tertiary,3.0,3.8110970868381857,0,1,0,0,1,1,0
+597,9REN Holding v. Spain,2015,1,True,Spain,Europe,Luxembourg,ICSID,Tertiary,4.0,4.117409835153096,0,1,1,0,1,1,0
+599,Aboukhalil v. Senegal,2015,1,True,Senegal,Africa,France,UNCITRAL,Data not available,2.0,,1,1,1,0,0,0,0
+602,Aktau Petrol v. Kazakhstan,2015,1,True,Kazakhstan,Asia,Türkiye,ICSID,Tertiary,,5.017279836814924,0,0,0,0,0,0,0
+604,Álvarez y Marín Corporación and others v. Panama,2015,0,False,other,America,"Costa Rica;
+Netherlands",ICSID,Tertiary,3.0,4.61512051684126,0,1,1,1,0,0,0
+607,Anglia v. Czech Republic,2015,0,True,Czechia,Europe,United Kingdom,SCC,Secondary,3.0,0.9555114450274363,0,1,1,1,0,0,0
+609,B3 Croatian Courier v. Croatia,2015,0,True,Croatia,Europe,Netherlands,ICSID,Tertiary,3.0,4.074141854904581,0,1,1,0,1,0,0
+610,BayWa r.e. v. Spain,2015,1,True,Spain,Europe,Germany,ICSID,Tertiary,5.0,4.368181227851829,0,1,1,1,1,1,0
+611,Belegging-Maatschappij “Far East” v. Austria,2015,0,False,Austria,Europe,Malta,ICSID,Tertiary,5.0,5.454466049037968,0,1,1,1,1,0,0
+612,Belenergia v. Italy,2015,0,True,Italy,Europe,Luxembourg,ICSID,Tertiary,5.0,,1,1,0,1,1,1,1
+613,Busta v. Czech Republic,2015,0,True,Czechia,Europe,United Kingdom,SCC,Secondary,3.0,2.066862759472976,0,1,1,1,0,0,0
+614,Cairn v. India,2015,1,True,other,Asia,United Kingdom,UNCITRAL,Primary,4.0,8.62790953896683,0,1,1,0,0,0,0
+615,Capital Financial Holdings v. Cameroon,2015,0,False,Cameroon,Africa,Luxembourg,ICSID,Tertiary,3.0,4.727387818712341,0,1,1,0,1,0,0
+616,Cavalum SGPS v. Spain,2015,1,True,Spain,Europe,Portugal,ICSID,Tertiary,4.0,4.258445572902527,0,1,1,0,1,1,0
+617,CEF Energia v. Italy,2015,1,True,Italy,Europe,Netherlands,SCC,Tertiary,3.0,2.5494451709255714,0,1,0,0,1,1,0
+619,Cortec Mining v. Kenya,2015,0,False,Kenya,Africa,United Kingdom,ICSID,Primary,1.0,7.601402334583733,0,0,0,0,0,0,0
+620,Cube Infrastructure and others v. Spain,2015,1,True,Spain,Europe,"France;
+Luxembourg",ICSID,Tertiary,4.0,4.436751534363128,0,1,1,0,1,1,0
+621,Dayyani v. Korea,2015,1,True,other,Asia,"Iran, Islamic Republic of",UNCITRAL,Secondary,1.0,4.475061500641071,0,1,0,0,0,0,0
+623,El Jaouni v. Lebanon,2015,1,True,other,Asia,Germany,ICSID,Tertiary,5.0,6.890507385572584,0,1,1,1,0,1,1
+624,ENERGO-PRO v. Bulgaria,2015,0,True,other,Europe,Czechia,ICSID,Tertiary,,,1,0,0,0,0,0,0
+625,Eskosol v. Italy,2015,0,True,Italy,Europe,Italy,ICSID,Tertiary,5.0,,1,1,1,1,1,1,0
+626,Everest and others v. Russia,2015,1,True,Russian Federation,Europe,Ukraine,UNCITRAL,Tertiary,1.0,5.3981627015177525,0,0,0,0,0,0,0
+627,Fin.Co.Ge.Ro v. Romania,2015,0,True,Romania,Europe,Italy,UNCITRAL,Tertiary,,5.896054362303324,0,0,0,0,0,0,0
+628,Foresight and others v. Spain,2015,1,True,Spain,Europe,"Luxembourg;
+Denmark;
+Italy",SCC,Tertiary,4.0,4.197201947661808,0,1,1,0,1,1,0
+630,García Armas and others v. Venezuela,2015,0,False,"Venezuela, Bolivarian Republic of",America,Spain,UNCITRAL,Secondary,1.0,5.484796933490655,0,0,0,0,0,0,0
+632,Greentech and NovEnergia v. Italy,2015,1,True,Italy,Europe,"Denmark;
+Luxembourg",SCC,Tertiary,3.0,2.6741486494265287,0,1,0,0,1,1,0
+635,Hydro and others v. Albania,2015,1,True,other,Europe,Italy,ICSID,Tertiary,4.0,6.59222227837458,0,1,0,0,1,0,0
+636,Hydro Energy 1 and Hydroxana v. Spain,2015,1,True,Spain,Europe,"Luxembourg;
+Sweden",ICSID,Tertiary,4.0,5.011301738639416,0,1,1,1,1,0,0
+638,IMFA v. Indonesia,2015,0,True,other,Asia,India,UNCITRAL,Primary,5.0,4.60816569496789,0,1,1,1,1,0,0
+639,JGC v. Spain,2015,1,True,Spain,Europe,Japan,ICSID,Tertiary,1.0,4.696837374513915,0,1,0,0,0,0,0
+640,JKX Oil & Gas and Poltava v. Ukraine,2015,1,True,Ukraine,Europe,"United Kingdom;
+Netherlands",UNCITRAL,Primary,1.0,5.602118820879701,0,1,0,0,0,0,0
+641,KCI v. Gabon,2015,1,True,Gabon,Africa,Tunisia,UNCITRAL,Tertiary,2.0,5.357057861570636,0,1,1,0,0,0,0
+642,Kruck and others v. Spain,2015,1,True,Spain,Europe,Germany,ICSID,Tertiary,2.0,3.190476350346503,0,1,1,0,0,0,0
+645,Lion v. Mexico,2015,1,True,Mexico,America,Canada,ICSID_AF,Tertiary,2.0,4.6061696863211745,0,1,1,0,0,0,0
+646,Littop and others v. Ukraine,2015,0,False,Ukraine,Europe,Cyprus,SCC,Primary,6.0,8.717518372649767,0,1,1,1,1,1,0
+647,Lugzor and others v. Russia,2015,1,True,Russian Federation,Europe,Ukraine,UNCITRAL,Tertiary,3.0,,1,0,0,1,0,0,0
+648,MAESSA and SEMI v. Ecuador,2015,1,True,Ecuador,America,Spain,UNCITRAL,Tertiary,3.0,3.8979240810486444,0,1,1,0,1,0,0
+649,Mağdenli v. Kazakhstan,2015,0,True,Kazakhstan,Asia,Türkiye,other,Tertiary,,2.833213344056216,0,0,0,0,0,0,0
+650,Manchester Securities v. Poland,2015,1,True,Poland,Europe,United States of America,UNCITRAL,Tertiary,4.0,2.766319109226186,0,1,1,1,1,0,0
+651,Medusa v. Montenegro,2015,0,False,other,Europe,United Kingdom,UNCITRAL,Primary,,4.730039168033961,0,0,0,0,0,0,0
+653,MMEA and AHSI v. Senegal,2015,0,False,Senegal,Africa,"United Kingdom;
+Netherlands",ICSID,Tertiary,1.0,3.8091039514203047,0,0,1,0,0,0,0
+656,Novenergia v. Spain,2015,1,True,Spain,Europe,Luxembourg,SCC,Tertiary,5.0,4.3425058765115985,0,1,1,1,1,1,0
+657,OperaFund and Schwab v. Spain,2015,1,True,Spain,Europe,"Malta;
+Switzerland",ICSID,Tertiary,4.0,3.858622228701031,0,1,0,1,1,1,0
+662,Pugachev v. Russia,2015,0,False,Russian Federation,Europe,France,UNCITRAL,Tertiary,5.0,9.392745258631441,0,1,1,1,0,0,0
+663,Rawat v. Mauritius,2015,0,False,Mauritius,Africa,France,UNCITRAL,Tertiary,2.0,6.90875477931522,0,1,1,0,0,0,0
+664,Resolute Forest v. Canada,2015,0,True,Canada,America,United States of America,UNCITRAL,Secondary,3.0,5.104125637183595,0,1,1,0,0,0,1
+666,SGRF v. Bulgaria,2015,0,True,other,Europe,Oman,ICSID,Tertiary,,4.506454213048934,0,0,0,0,0,0,0
+668,Silver Ridge v. Italy,2015,0,True,Italy,Europe,Netherlands,ICSID,Tertiary,3.0,,1,1,1,0,0,1,0
+670,SolEs Badajoz v. Spain,2015,1,True,Spain,Europe,Germany,ICSID,Tertiary,3.0,4.680277658474897,0,1,1,0,0,1,0
+671,Stabil and others v. Russia,2015,1,True,Russian Federation,Europe,Ukraine,UNCITRAL,Tertiary,1.0,3.879499813722586,0,0,0,0,0,0,0
+672,Stadtwerke München and others v. Spain,2015,0,True,Spain,Europe,Germany,ICSID,Tertiary,4.0,6.199291394310299,0,1,0,0,1,1,0
+673,STEAG v. Spain,2015,1,True,Spain,Europe,Germany,ICSID,Tertiary,4.0,4.542230386214217,0,1,1,1,0,1,0
+674,Strabag v. Libya,2015,1,True,other,Africa,Austria,ICSID_AF,Tertiary,6.0,4.394449154672439,0,1,1,1,1,1,0
+675,Tekfen and TML v. Libya,2015,0,True,other,Africa,Türkiye,other,Tertiary,5.0,4.554928969551344,0,1,0,1,1,1,0
+677,Ukrnafta v. Russia,2015,1,True,Russian Federation,Europe,Ukraine,UNCITRAL,Tertiary,1.0,3.937690752176724,0,0,0,0,0,0,0
+678,Watkins and others v. Spain,2015,1,True,Spain,Europe,"Luxembourg;
+Netherlands",ICSID,Tertiary,2.0,4.93014804318357,0,1,0,0,0,1,0
+679,Way2B v. Libya,2015,0,True,other,Africa,Portugal,other,Tertiary,,4.122283930911342,0,0,0,0,0,0,0
+680,WCV and Channel Crossings v. Czechia,2015,0,True,Czechia,Europe,Cyprus,UNCITRAL,Tertiary,2.0,5.113191882421348,0,1,0,1,0,0,0
+682,A11Y v. Czech Republic,2014,0,True,Czechia,Europe,United Kingdom,UNCITRAL,Tertiary,5.0,3.261935314328648,0,1,1,0,1,1,1
+684,Aleksandrowicz and Częścik v. Cyprus,2014,0,True,other,Asia,Poland,SCC,Data not available,1.0,1.6863989535702288,0,0,1,0,0,0,0
+685,Alpiq v. Romania,2014,0,True,Romania,Europe,Switzerland,ICSID,Tertiary,2.0,6.111467339502679,0,1,1,0,0,0,0
+687,Anglo American v. Venezuela,2014,0,True,"Venezuela, Bolivarian Republic of",America,United Kingdom,ICSID_AF,Primary,5.0,6.398594934535208,0,1,1,1,0,0,1
+688,Ansung Housing v. China,2014,0,False,China,Asia,"Korea, Republic of",ICSID,Tertiary,,2.8507065015037334,0,0,0,0,0,0,0
+689,Aven and others v. Costa Rica,2014,0,True,Costa Rica,America,United States of America,UNCITRAL,Tertiary,2.0,4.212127597878484,0,1,1,0,0,0,0
+690,Ballantine v. Dominican Republic,2014,0,False,Dominican Republic,America,United States of America,UNCITRAL,Tertiary,6.0,3.7013019741124933,0,1,1,1,0,0,1
+691,Bear Creek Mining v. Peru,2014,1,True,Peru,America,Canada,ICSID,Primary,5.0,6.259963800142989,0,1,1,1,1,0,0
+693,Besserglik v. Mozambique,2014,0,False,Mozambique,Africa,South Africa,ICSID_AF,Primary,4.0,4.528289141652134,0,1,1,1,1,0,0
+694,Blusun v. Italy,2014,0,True,Italy,Europe,"Belgium;
+France;
+Germany",ICSID,Tertiary,3.0,5.2847254130285695,0,1,1,0,0,0,0
+695,Casinos Austria v. Argentina,2014,1,True,Argentina,America,Austria,ICSID,Tertiary,4.0,3.9684033388642534,0,1,1,0,0,0,1
+696,CEAC v. Montenegro,2014,0,False,other,Europe,Cyprus,ICSID,Secondary,6.0,6.725393721388161,0,1,1,1,0,0,1
+697,City-State v. Ukraine,2014,1,True,Ukraine,Europe,Netherlands,ICSID,Tertiary,2.0,,1,1,1,0,0,0,0
+699,Corona Materials v. Dominican Republic,2014,0,False,Dominican Republic,America,United States of America,ICSID_AF,Primary,4.0,4.61512051684126,0,1,1,1,0,0,1
+700,Cyprus Popular Bank v. Greece,2014,1,True,other,Europe,Cyprus,ICSID,Tertiary,3.0,7.215975002651466,0,1,0,0,0,0,1
+703,EuroGas and Belmont v. Slovakia,2014,0,False,Slovakia,Europe,"Canada;
+United States of America",ICSID,Primary,6.0,6.486160788944089,0,1,1,1,1,1,0
+705,Flemingo DutyFree v. Poland,2014,1,True,Poland,Europe,India,UNCITRAL,Tertiary,2.0,4.522874943261261,0,1,1,0,0,0,0
+707,Griffin v. Poland,2014,0,True,Poland,Europe,Luxembourg,SCC,Tertiary,5.0,2.928523523860541,0,1,1,0,0,0,0
+709,Horthel and others v. Poland,2014,1,True,Poland,Europe,Netherlands,UNCITRAL,Tertiary,2.0,4.053522567701846,0,1,1,0,0,0,0
+712,Infinito Gold v. Costa Rica,2014,0,True,Costa Rica,America,Canada,ICSID,Primary,6.0,4.551769409260976,0,1,1,1,0,1,0
+713,InfraRed and others v. Spain,2014,1,True,Spain,Europe,United Kingdom,ICSID,Tertiary,5.0,4.439115601658009,0,1,1,1,1,1,0
+715,Krederi v. Ukraine,2014,0,True,Ukraine,Europe,United Kingdom,ICSID,Tertiary,3.0,4.927253685157205,0,1,1,1,0,0,0
+717,LDA v. India,2014,0,True,other,Asia,France,UNCITRAL,Tertiary,1.0,3.6109179126442243,0,0,0,1,0,0,0
+720,Masdar v. Spain,2014,1,True,Spain,Europe,Netherlands,ICSID,Tertiary,1.0,5.697093486505405,0,1,0,0,0,0,0
+721,Micula v. Romania (II),2014,0,True,Romania,Europe,Sweden,ICSID,Secondary,4.0,7.656242554575247,0,1,0,1,1,1,0
+722,NextEra v. Spain,2014,1,True,Spain,Europe,Netherlands,ICSID,Tertiary,4.0,6.375024819828097,0,1,0,0,1,1,0
+724,Olin v. Libya,2014,1,True,other,Africa,Cyprus,other,Secondary,5.0,4.819474788635096,0,1,0,1,1,0,1
+725,PL Holdings v. Poland,2014,1,True,Poland,Europe,Luxembourg,SCC,Tertiary,1.0,6.175659348283617,0,0,1,0,0,0,0
+727,RENERGY v. Spain,2014,1,True,Spain,Europe,Luxembourg,ICSID,Tertiary,5.0,5.078916801512661,0,1,1,1,1,1,0
+729,RWE Innogy v. Spain,2014,1,True,Spain,Europe,Germany,ICSID,Tertiary,4.0,5.7623657987550985,0,1,0,0,1,1,0
+730,Saab v. Cyprus,2014,0,True,other,Asia,Lebanon,other,Tertiary,1.0,6.2166061010848646,0,0,1,0,0,0,0
+731,Sodexo Pass v. Hungary,2014,1,True,Hungary,Europe,France,ICSID,Tertiary,1.0,4.502029427068578,0,0,1,0,0,0,0
+733,Trinh and Bin Chau v. Viet Nam (II),2014,1,True,other,Asia,Netherlands,UNCITRAL,Data not available,2.0,7.1316985104669115,0,1,0,0,0,0,0
+735,Unión Fenosa v. Egypt,2014,1,True,Egypt,Africa,Spain,ICSID,Primary,5.0,8.077291905986945,0,1,0,1,1,0,1
+736,United Utilities v. Estonia,2014,0,True,other,Europe,Netherlands,ICSID,Tertiary,3.0,4.308110951723713,0,1,0,0,1,1,0
+737,Uzan v. Turkey,2014,0,False,Türkiye,Asia,"France;
+United Kingdom",SCC,Tertiary,,7.824445930877619,0,0,0,0,0,0,0
+739,Vodafone v. India (I),2014,1,True,other,Asia,Netherlands,UNCITRAL,Tertiary,1.0,,1,1,0,0,0,0,0
+740,WNC v. Czech Republic,2014,0,True,Czechia,Europe,United Kingdom,UNCITRAL,Tertiary,3.0,4.51085950651685,0,1,1,0,0,1,0
+741,Zelena v. Serbia,2014,1,True,other,Europe,Belgium,ICSID,Tertiary,1.0,,1,1,0,0,0,0,0
