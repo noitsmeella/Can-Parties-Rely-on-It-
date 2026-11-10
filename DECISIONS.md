@@ -133,6 +133,14 @@ Split on **year of initiation** (no year of conclusion in the data).
 **Manual check** 5 random test rows (random_state=1) checked against the Excel file on 2026-11-10: year, label, n_claims, amount, forum all match ✔
 
 ---
+## D-06 · 2026-11-10 · What counts as beating the baseline (set before any model is run)
+
+**Choice** A model beats the baseline if the lower end of its bootstrap 95% interval for accuracy on the test set is above the majority-class accuracy, OR its Brier score's upper 95% bound is below the base-rate Brier.
+**Reason** With 225 test cases, accuracy differences of 3–4 points can be chance. Brier is included because the study is about probabilities, not only right/wrong.
+**Alternatives considered** Point estimate above baseline (too lenient for n = 225); significance test on paired predictions (more complex, same conclusion in most cases).
+**Manual check** Majority acc 0.591 = 1 − 0.409 ✔ · base-rate Brier 0.2424 by hand ✔
+
+---
 <!-- Template for new entries
 
 ## D-XX · YYYY-MM-DD · Title

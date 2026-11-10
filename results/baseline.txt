@@ -1,0 +1,4 @@
+train n=395 investor share=0.435
+test  n=225 investor share=0.409
+MAJORITY ACCURACY (always 'State'): 0.591
+BASE-RATE BRIER (always p=0.435): 0.2424
