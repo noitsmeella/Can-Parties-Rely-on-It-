@@ -141,6 +141,14 @@ Split on **year of initiation** (no year of conclusion in the data).
 **Manual check** Majority acc 0.591 = 1 − 0.409 ✔ · base-rate Brier 0.2424 by hand ✔
 
 ---
+## D-07 · 2026-11-16 · Models and cross-validation
+
+**Choice** Logistic regression (C ∈ {0.1, 1, 10}) and gradient boosting (max_depth ∈ {2, 3}; lr 0.05, 200 trees, subsample 0.8). Preprocessing inside the pipeline: one-hot for categoricals, median imputation + missing indicators + scaling for numerics. Hyperparameters chosen by 4-fold time-series CV on the train set only, scored by Brier.
+**Not used** Class weighting or resampling (SMOTE): they distort predicted probabilities, which is what this study measures. Random forest: dropped for time.
+**CV result** prior-only 0.2459 · logreg 0.2473 (C=0.1) · gbm 0.2719 (depth 2) (results/cv_results.csv). Neither model beats the prior-only baseline in CV; both chose the simplest setting and gbm overfits. Structural features carry little signal. Recorded before the test set is opened; no further changes to features or models.
+
+
+---
 <!-- Template for new entries
 
 ## D-XX · YYYY-MM-DD · Title
