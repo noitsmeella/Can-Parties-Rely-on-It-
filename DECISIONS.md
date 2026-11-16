@@ -147,7 +147,14 @@ Split on **year of initiation** (no year of conclusion in the data).
 **Not used** Class weighting or resampling (SMOTE): they distort predicted probabilities, which is what this study measures. Random forest: dropped for time.
 **CV result** prior-only 0.2459 · logreg 0.2473 (C=0.1) · gbm 0.2719 (depth 2) (results/cv_results.csv). Neither model beats the prior-only baseline in CV; both chose the simplest setting and gbm overfits. Structural features carry little signal. Recorded before the test set is opened; no further changes to features or models.
 
+---
+## D-08 · 2026-11-16 · Test-set result (evaluated once)
 
+**Result** logreg: acc 0.609 [0.542, 0.671], Brier 0.2212 [0.2037, 0.2394], ECE 0.027 · gbm: acc 0.671 [0.609, 0.733], Brier 0.2098 [0.1907, 0.2306], ECE 0.041 · majority 0.591, base-rate Brier 0.2424.
+**Judgement under D-06** Both models beat the baseline (Brier upper bound below 0.2424; gbm also on accuracy).
+**Disagreement with CV** In CV neither model beat prior-only (D-07). Likely causes: small samples, and a 2014–18 cluster of similar cases (ECT renewable-energy claims). To be examined in error analysis; no model changes.
+**Model used for comparison with LLMs** logreg, chosen by CV before the test set was opened. gbm reported alongside in Table 1.
+**Manual check** logreg correct predictions counted: 137 / 225 = 0.609 ✔
 ---
 <!-- Template for new entries
 

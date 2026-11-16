@@ -28,7 +28,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.model_selection import TimeSeriesSplit, GridSearchCV
 
-EVALUATE_TEST = False   # B단계에서만 True로 바꾼다 (평가 세트는 한 번만 연다)
+EVALUATE_TEST = True   # B단계에서만 True로 바꾼다 (평가 세트는 한 번만 연다)
 
 # 1) 피처: 범주형 4개 + 숫자형 9개
 CAT = ["respondent", "resp_region", "forum", "sector"]
@@ -69,3 +69,48 @@ prior_cv = -cross_val_score(DummyClassifier(strategy="prior"), X_tr, y_tr, cv=cv
                             scoring="neg_brier_score").mean()
 cv_rows.append({"model": "prior_only", "best_params": {}, "cv_brier": round(prior_cv, 4)})
 print(f"[CV] prior-only baseline: cv Brier {prior_cv:.4f}")
+
+
+# ===================== 평가 세트 1회 평가 =====================
+if EVALUATE_TEST:
+    import matplotlib
+    matplotlib.use("Agg")                  # 창을 띄우지 않고 파일로만 저장
+    import matplotlib.pyplot as plt
+    from sklearn.inspection import permutation_importance
+    from metrics import brier, ece, bootstrap_ci
+
+    X_te = test[FEATURES]
+    acc_fn = lambda y, p: float(np.mean((p >= 0.5) == (y == 1)))   # p ≥ 0.5면 투자자로 예측
+
+    perf, probs = [], []
+    for name, est in fitted.items():
+        p = est.predict_proba(X_te)[:, 1]
+        acc_lo, acc_hi = bootstrap_ci(acc_fn, y_te, p)
+        br_lo, br_hi = bootstrap_ci(brier, y_te, p)
+        row = {"model": name, "n": len(y_te),
+               "accuracy": round(acc_fn(y_te, p), 3), "acc_ci": [round(acc_lo, 3), round(acc_hi, 3)],
+               "brier": round(brier(y_te, p), 4), "brier_ci": [round(br_lo, 4), round(br_hi, 4)],
+               "ece": round(ece(y_te, p), 4),
+               "mean_confidence": round(float(np.maximum(p, 1 - p).mean()), 3)}
+        # D-06 기준: 정확도 구간 하한 > 다수결 정확도  또는  Brier 구간 상한 < 기저율 Brier
+        row["beats_baseline"] = bool(acc_lo > acc or br_hi < bb)
+        perf.append(row)
+        probs.append(pd.DataFrame({"case_id": test["NO."], "model": name, "p_investor": p, "y": y_te}))
+        print(f"[TEST] {name}: acc {row['accuracy']} {row['acc_ci']}  Brier {row['brier']} {row['brier_ci']}  "
+              f"ECE {row['ece']}  beats baseline: {row['beats_baseline']}")
+    print(f"[BASELINE] majority acc {acc:.3f}  base-rate Brier {bb:.4f}")
+
+    pd.DataFrame(perf).to_csv("results/model_performance.csv", index=False)
+    pd.concat(probs).to_csv("results/model_probs.csv", index=False)
+
+    # 피처 중요도: 피처 하나를 섞었을 때 Brier가 얼마나 나빠지는가 (저장소용 그림)
+    imp = permutation_importance(fitted["logreg"], X_te, y_te, scoring="neg_brier_score",
+                                 n_repeats=20, random_state=0)
+    order = np.argsort(imp.importances_mean)
+    fig, ax = plt.subplots(figsize=(6, 4.5))
+    ax.barh(np.array(FEATURES)[order], imp.importances_mean[order],
+            xerr=imp.importances_std[order], color="#888")
+    ax.set_xlabel("Increase in Brier score when the feature is shuffled")
+    ax.set_title("Permutation importance (logistic regression, test set)")
+    fig.tight_layout(); fig.savefig("figures/feature_importance.png", dpi=200)
+    print("saved figures/feature_importance.png")
